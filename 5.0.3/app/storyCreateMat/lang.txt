@@ -1,0 +1,20 @@
+formheader=<form enctype="multipart/form-data" method="%p">
+input=<input type="%p" name="%p" value="%p">
+textarea=<textarea rows="%p" cols="%p" name="%p">%p</textarea>
+formend=</form>
+PONAME=Название программы
+POTEXT=Описание программы
+POLINK=Файл для скачивания
+ADD=Добавить
+NOTUSER=Вы должны быть авторизованы для добавления.
+USERBANED=Вам запрещено добавлять программы.
+endl=<br>
+uploadimage=<input name="%p[]" type="file" multiple><br>
+POImage=Выберете изображения приложения.
+PODetals=Опишите вашу программу:
+Linux=Linux версия
+Windows=Windows версия
+Android=Android версия
+Other=Другая
+Mac=Mac версия
+Info=Примичание

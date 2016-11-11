@@ -1,0 +1,5 @@
+hello=Добрый день,
+wz=!
+formheader=<form method="%p">
+input=<input type="%p" name="%p" value="%p">
+formend=</form>
